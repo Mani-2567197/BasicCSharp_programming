@@ -1,0 +1,8 @@
+E:\C#\Exercises\BasciCSharpAssigment\BasciCSharpAssigment\bin\Debug\BasciCSharpAssigment.exe.config
+E:\C#\Exercises\BasciCSharpAssigment\BasciCSharpAssigment\bin\Debug\BasciCSharpAssigment.exe
+E:\C#\Exercises\BasciCSharpAssigment\BasciCSharpAssigment\bin\Debug\BasciCSharpAssigment.pdb
+E:\C#\Exercises\BasciCSharpAssigment\BasciCSharpAssigment\obj\Debug\BasciCSharpAssigment.csproj.AssemblyReference.cache
+E:\C#\Exercises\BasciCSharpAssigment\BasciCSharpAssigment\obj\Debug\BasciCSharpAssigment.csproj.SuggestedBindingRedirects.cache
+E:\C#\Exercises\BasciCSharpAssigment\BasciCSharpAssigment\obj\Debug\BasciCSharpAssigment.csproj.CoreCompileInputs.cache
+E:\C#\Exercises\BasciCSharpAssigment\BasciCSharpAssigment\obj\Debug\BasciCSharpAssigment.exe
+E:\C#\Exercises\BasciCSharpAssigment\BasciCSharpAssigment\obj\Debug\BasciCSharpAssigment.pdb
